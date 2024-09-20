@@ -1,3 +1,4 @@
+https://drive.google.com/file/d/1hZs9cfaYraHUD2ImiP6Q7Av0iUql1Eqd/view?usp=sharing
 sudo apt install openssh-server
 sudo systemctl enable ssh
 sudo systemctl start ssh
